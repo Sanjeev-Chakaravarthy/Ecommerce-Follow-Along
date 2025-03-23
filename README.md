@@ -50,3 +50,11 @@ This is a full-stack **E-Commerce Web Application** built with **Node.js**, **Ex
 - 🔐 Designed and implemented a **basic login page** using standard **CSS** (not Tailwind CSS).  
 
 ---
+
+## 🚀 Milestone 3: Backend Foundation  
+
+- ⚙️ **Environment Setup:** Initialized the backend, configured the environment, and installed all required dependencies.  
+- 🌐 **Server Implementation:** Built an Express server with structured routing and implemented robust error handling for smooth operation.  
+- 🗄️ **Database Integration:** Established a secure connection to MongoDB using Mongoose for efficient data management.  
+
+---
