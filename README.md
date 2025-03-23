@@ -73,3 +73,15 @@ This is a full-stack **E-Commerce Web Application** built with **Node.js**, **Ex
 - Made the `uploads` folder publicly accessible.  
 
 ---
+
+# 🚀 Milestone 5  
+
+### 📝 SignUp Implementation  
+✅ Created a basic **Sign Up** page using **React**  
+✅ Integrated **Axios** to send a **POST request** to the backend  
+
+### 🎨 Styling  
+✅ Styled `Signup.jsx` using **Styled Components** for a clean and modern UI  
+✅ Applied **basic CSS** for responsiveness and better user experience  
+
+---
