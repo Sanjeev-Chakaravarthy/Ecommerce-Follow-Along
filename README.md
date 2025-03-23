@@ -51,3 +51,4 @@ This is a full-stack **E-Commerce Web Application** built with **Node.js**, **Ex
 - 🗄️ **Database Integration:** Established a secure connection to MongoDB using Mongoose for efficient data management.  
 
 ---
+
