@@ -44,6 +44,13 @@ This is a full-stack **E-Commerce Web Application** built with **Node.js**, **Ex
 
 ---
 
+## 🚀 Milestone 2
+- 📂 Organized the project into separate folders for **frontend** and **backend** to ensure a clear separation of concerns and ease of development.  
+- ⚡ Initialized the frontend using **React with Vite** for a faster and more optimized development experience. 
+- 🔐 Designed and implemented a **basic login page** using standard **CSS** (not Tailwind CSS).  
+
+---
+
 ## 🚀 Milestone 3: Backend Foundation  
 
 - ⚙️ **Environment Setup:** Initialized the backend, configured the environment, and installed all required dependencies.  
