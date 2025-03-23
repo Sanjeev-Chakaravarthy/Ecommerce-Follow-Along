@@ -58,3 +58,18 @@ This is a full-stack **E-Commerce Web Application** built with **Node.js**, **Ex
 - 🗄️ **Database Integration:** Established a secure connection to MongoDB using Mongoose for efficient data management.  
 
 ---
+
+# 🚀 Milestone 4  
+
+## 👤 User Model  
+- Created a basic user model with necessary fields.  
+
+## 🔐 User Controller  
+- Created a **POST** method for the `/sign-up` route.  
+- Implemented user creation logic securely.  
+
+## 📂 Multer Configuration  
+- Configured Multer's destination and filename.  
+- Made the `uploads` folder publicly accessible.  
+
+---
