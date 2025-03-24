@@ -93,3 +93,9 @@ This is a full-stack **E-Commerce Web Application** built with **Node.js**, **Ex
 ✅ **User Validation:** Checked if the user exists before attempting authentication.  
 
 ---
+
+## Milestone 8  
+
+🎨 **Product Card Component:** Designed a reusable card component to display product details dynamically.  
+📌 **Homepage Layout:** Implemented a structured layout using flexbox/grid to showcase multiple products.  
+🔄 **Dynamic Rendering:** Used array mapping to render product cards with unique details (e.g., name, price, image).  
