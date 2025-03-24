@@ -78,3 +78,10 @@ This is a full-stack **E-Commerce Web Application** built with **Node.js**, **Ex
 ✅ Applied **basic CSS** for responsiveness and better user experience  
 
 ---
+
+## Milestone 6  
+
+🔒 **Encryption:** Implemented password hashing in `userController.js` using `bcryptjs` before storing it in the database.  
+🛡 **Secure Data Storage:** Stored user details safely while ensuring passwords remain encrypted.
+
+---
