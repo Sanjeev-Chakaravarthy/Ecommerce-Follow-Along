@@ -92,3 +92,11 @@ This is a full-stack **E-Commerce Web Application** built with **Node.js**, **Ex
 🛡 **Secure Data Storage:** Stored user details safely while ensuring passwords remain encrypted.
 
 ---
+
+## Milestone 7  
+
+🔑 **Login Authentication:** Implemented a login endpoint in `userController.js` to validate user credentials.  
+🔍 **Password Verification:** Used `bcryptjs` to compare the stored hashed password with the user's input.  
+✅ **User Validation:** Checked if the user exists before attempting authentication.  
+
+---
